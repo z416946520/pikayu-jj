@@ -1,0 +1,19 @@
+# 本机虚拟环境（可重建，不入库）
+.venv-build/
+.venv-re/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# PyInstaller 构建中间产物（可重建；交付物 dist/ 入库）
+pikafishjj/build/
+
+# 运行期日志与缓存
+*.log
+!docs/*.md
+.dsh-*
+
+# 临时探针
+_*.py
+*.tmp

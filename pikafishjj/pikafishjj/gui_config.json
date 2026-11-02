@@ -1,0 +1,19 @@
+{
+  "title": "JJ",
+  "exe": "D:\\BuildProject\\pikayu-jj\\pikafish\\Pikafish-Windows-x86-64-universal.exe",
+  "threads": 8,
+  "hash_mb": 1024,
+  "movetime": 1200,
+  "max_moves": 200,
+  "opp_timeout": 60.0,
+  "probe_wait": 3.0,
+  "click_delay": 0.18,
+  "side": "auto",
+  "first": null,
+  "dry": false,
+  "background": false,
+  "request": "decline",
+  "engine": true,
+  "preset": "均衡 (推荐)",
+  "geometry": "1150x880+320+320"
+}
